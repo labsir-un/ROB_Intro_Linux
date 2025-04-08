@@ -18,6 +18,7 @@
 </div>
 
 <div align="justify">
+
 ## Introducción
 
 En el desarrollo de sistemas de robótica moderna, inteligencia artificial y automatización, contar con un entorno operativo estable, flexible y compatible con las principales herramientas de software es fundamental. Linux, con su variedad de distribuciones, se ha consolidado como el sistema operativo por excelencia en estos ámbitos.
