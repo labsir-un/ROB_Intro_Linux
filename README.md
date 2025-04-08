@@ -15,6 +15,9 @@
 <h5>Pedro Fabián Cárdenas Herrera<br>
     Manuel Felipe Carranza Montenegro</h5>
 
+</div>
+
+<div align="justify">
 ## Introducción
 
 En el desarrollo de sistemas de robótica moderna, inteligencia artificial y automatización, contar con un entorno operativo estable, flexible y compatible con las principales herramientas de software es fundamental. Linux, con su variedad de distribuciones, se ha consolidado como el sistema operativo por excelencia en estos ámbitos.
@@ -205,5 +208,5 @@ https://github.com/user-attachments/assets/f3c41b45-3433-4dae-81b3-c95dded44e12
 | `tar -xzvf archivo.tar.gz`     | Descomprime un archivo tar.gz.                                         |
 | `man comando`                  | Muestra el manual de ayuda de un comando.                              |
 | `exit`                          | Sale de la terminal o sesión actual.                                   |
-
+</div>
 
